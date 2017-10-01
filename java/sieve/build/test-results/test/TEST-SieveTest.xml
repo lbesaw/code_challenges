@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SieveTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2017-10-01T06:00:06" hostname="pegasus" time="0.025">
+  <properties/>
+  <testcase name="findFirstPrime" classname="SieveTest" time="0.008"/>
+  <testcase name="findPrimesUpTo1000" classname="SieveTest" time="0.014"/>
+  <testcase name="findPrimesUpTo10" classname="SieveTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
